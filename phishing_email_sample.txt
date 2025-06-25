@@ -1,0 +1,13 @@
+From: PayPal support@paypa1-alerts.com
+Subject: Urgent: Unusual Login Attempt Detected
+
+Dear Customer,
+
+We have detected an unusual login attempt on your PayPal account. For your protection, we have temporarily suspended your account. To restore full access, please verify your identity immediately by clicking the link below:
+
+👉 Verify Account
+
+If you do not act within 24 hours, your account will be permanently locked.
+
+Sincerely,
+PayPal Security Team
